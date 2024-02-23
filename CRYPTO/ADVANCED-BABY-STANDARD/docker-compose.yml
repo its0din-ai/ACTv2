@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  advanced-baby:
+      build:
+        context: .
+        dockerfile: Dockerfile
+      container_name: Baby-AES
+      environment:
+        - DEBIAN_FRONTEND=noninteractive
+      ports:
+        - "13371:13371"
+      restart: unless-stopped

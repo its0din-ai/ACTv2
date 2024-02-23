@@ -1,0 +1,14 @@
+Challenge Name: Hire an Agent
+Challenge Desc: Agents on this page are the best. But the developer is too dumb. So, back to basic!!!
+Challenge Author: encrypt0r
+Category: WEB EXPLOITATION
+Flag: ACTCTF{cb12352bd9ba4fdc3d07925cee24f3a1b11ddaae0a59d5bde4ebcdb87bd9edef}
+Level: EASY
+Attachment: FALSE
+--------------------------------------------------------
+POC:
+1. sqlmap on the HTTP USER-AGENT in the /dashboard.php
+
+How to deploy:
+1. deploy pake php + mysql
+

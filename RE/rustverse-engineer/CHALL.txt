@@ -1,0 +1,12 @@
+Challenge Name: Rustverse Engineer
+Challenge Desc: Rust is so blazingly fast. But how fast you can find the flag?
+Challenge Author: encrypt0r
+Category: REVERSE ENGINEERING
+Flag: ACTCTF{f695d_simplest_r3verse_engin3er1ng_3v3r!_a3c96d607}
+Level: EASY
+Attachment: TRUE (rustverse)
+--------------------------------------------------------
+POC:
+1. Gunakan strings untuk mencari flag
+
+How to deploy: -

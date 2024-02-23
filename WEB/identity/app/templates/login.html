@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="mt-5 mb-5 d-flex justify-content-center align-self-center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hololive_triangles_logo.svg/1200px-Hololive_triangles_logo.svg.png"
+            height="100px">
+        <h1 class="align-self-center text-center fw-bold ms-5">id:Entity Corporation</h1>
+    </div>
+    <div class="card mx-auto my-auto mt-5" style='max-width: 32rem;'>
+        <div class="card-body">
+            {% with messages = get_flashed_messages() %}
+            {% if messages %}
+            <div class="alert alert-secondary alert-dismissible fade show" role="alert">
+                {% for message in messages %}
+                {{ message }}
+                {% endfor %}
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+            {% endif %}
+            {% endwith %}
+            <form method="post" action="{{ url_for('login') }}">
+                <div class="form-outline mb-4">
+                    <input placeholder="Username" type="text" id="username" name="username" required
+                        class="form-control" />
+                </div>
+                <div class="form-outline mb-4">
+                    <input placeholder="Password" type="password" id="password" name="password" required
+                        class="form-control" />
+                </div>
+                <div class="d-flex justify-content-end">
+                    <button type="submit" class="btn btn-info btn-block mb-4 px-5">Sign in</button>
+                </div>
+            </form>
+        </div>
+    </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

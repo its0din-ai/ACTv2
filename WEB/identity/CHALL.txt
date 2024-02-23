@@ -1,0 +1,20 @@
+Challenge Name: id:Entity Corp
+Challenge Desc:
+This weeb is soooo TEMPLATE. the dev is so dumb.
+building html using jinja2? someone will sell the Shell Backdoor access i guess.
+even there's a default user dummy:dumb
+Challenge Author: encrypt0r
+Category: WEB EXPLOITATION
+Flag: ACTCTF{da1469a3aa9a1ccb79eb5892bc8bb2581c287234ccd95d08dd2dd5c4a2de82b1}
+Level: MEDIUM
+Attachment: FALSE
+--------------------------------------------------------
+POC:
+1. terdapat celah SSTI di error path
+2. ambil akun admin menggunakan payload HTTP GET /{{config.items()}}
+3. Login admin, dan masuk ke endpoint /fans
+4. Upload XML dengan request entity ke /bendera.pem
+5. Decode PEM to HEX -> Hex to String
+
+How to deploy:
+1. Menggunakan framework flask

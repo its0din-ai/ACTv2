@@ -1,0 +1,13 @@
+Challenge Name: PROFESSIONAL CTF PLAYER
+Challenge Desc: are you certified?
+Challenge Author: encrypt0r
+Category: MISC
+Flag: ACTCTF{EZ_SCAN_F0R_SANITY}
+Level: EASY
+Attachment: TRUE (sanity.png)
+--------------------------------------------------------
+POC:
+1. Scan qr
+2. Done
+
+How to deploy: -

@@ -1,0 +1,26 @@
+[WEB]
++ SSTI leads to XXE
++ USER AGENT SQLi
+
+[CRYPTO]
++ NOT SO EXCLUSIVE
++ BABY AES
+
+[RE]
++ RUSTVERSE-ENGINEER
+
+[MISC]
++ Sanity
++ Survei
+
+---
+
+VPS Platform:
+8CPU 8MEM
+40GB
+856/Jam
+
+VPS Soal (WEB, RE):
+8CPU 16MEM
+100GB
+1404/Jam

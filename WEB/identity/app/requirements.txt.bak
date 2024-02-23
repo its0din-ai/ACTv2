@@ -1,0 +1,4 @@
+flask
+flask_login
+Jinja2
+lxml==4.5.0

@@ -1,0 +1,11 @@
+service advanceBaby
+{
+    disable     = no
+    type        = UNLISTED
+    socket_type = stream
+    protocol    = tcp
+    port        = 13371
+    wait        = no
+    user        = root
+    server      = /app/run
+}

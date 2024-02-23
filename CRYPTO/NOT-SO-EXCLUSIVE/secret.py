@@ -1,0 +1,1 @@
+FLAG="ACTCTF{s3mo9a_lu_gk_coba_brut3f0rce_X0R_awokawokaw}"

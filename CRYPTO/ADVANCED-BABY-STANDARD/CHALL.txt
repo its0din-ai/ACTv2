@@ -1,0 +1,15 @@
+Challenge Name: ADVANCED-BABY-STANDARD
+Challenge Desc: -
+Challenge Author: encrypt0r
+Category: CRYPTO
+Flag: ACTCTF{6bf4b01a8284fc3261e99be9d478a4eab1d9d2cc4ae1fae85cae2ea0e766b337}
+Level: MEDIUM
+Attachment: TRUE (crypt.py)
+--------------------------------------------------------
+POC:
+1. Karena key sangat kecil (2) kita dapat melakukan brute force
+2. Gunakan looping sebanyak 2^16 untuk memecahkan key
+3. Decrypt AES dengan algo CBC, dan tampilkan jika ada prefix flag
+
+How to deploy:
+1. Deploy file pythonnya menggunakan xinet daemon

@@ -1,0 +1,16 @@
+GET /dashboard.php HTTP/1.1
+Host: localhost:8082
+User-Agent: *
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: http://localhost:8082/login.php
+DNT: 1
+Sec-GPC: 1
+Connection: close
+Cookie: PHPSESSID=76ed839257274568835fa5990a018cab
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
