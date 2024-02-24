@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  actbot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: dc-bot
+    volumes:
+      - ./log/:/tmp/log/

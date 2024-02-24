@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "bun bot.js"
+  },
+  "dependencies": { 
+      "discord.js": "^14.14.1", 
+      "dotenv": "^16.4.5" 
+    }
+}

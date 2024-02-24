@@ -1,3 +1,6 @@
 ARCHIVE/*
 platform/*
 WEB/agenthiring/db/data/*
+MISC/actbot/log/*.log
+MISC/actbot/src/node_modules
+MISC/actbot/src/.env.local

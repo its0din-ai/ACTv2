@@ -1,0 +1,12 @@
+Challenge Name: TAGS
+Challenge Desc: Join here to find the flag: https://discord.gg/mDQHabMF6h
+Challenge Author: encrypt0r
+Category: MISC
+Flag: ACTCTF{__DONT_MENTION_IT__}
+Level: EASY
+Attachment: FALSE
+--------------------------------------------------------
+POC:
+1. Ketik '@' di chat untuk meliht roles dengan nama berupa FLAGnya
+
+How to deploy: -
