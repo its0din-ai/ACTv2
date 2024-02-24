@@ -19,11 +19,22 @@
 ---
 
 VPS Platform:
-8CPU 8MEM
+8vCPU 8GB MEM
 40GB
 856/Jam
+110,000 (5d)
 
-VPS Soal (WEB, RE):
-8CPU 16MEM
+VPS Soal (WEB):
+8vCPU 8GB MEM
 100GB
-1404/Jam
+993/Jam
+120,000 (5d)
+
+VPS Soal (CRYPTO, MISC):
+4vCPU 8GB MEM
+20GB
+633/Jam
+80,000 (5d)
+
+(handle 100an user)
++ 310,000 (5d) [kemungkinan cuma di aktifin 2-3 hari]
