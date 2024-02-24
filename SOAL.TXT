@@ -1,4 +1,5 @@
 [WEB]
++ SSRF
 + SSTI leads to XXE
 + USER AGENT SQLi
 

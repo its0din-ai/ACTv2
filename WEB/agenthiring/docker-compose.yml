@@ -11,7 +11,7 @@ services:
     depends_on:
       - agentdb
 
-  agentdb:
+  agentsdb:
     image: mysql:latest
     container_name: agents-db
     environment:
