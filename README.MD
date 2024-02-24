@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td>Misc</td>
-    <td>2</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>OSINT</td>
