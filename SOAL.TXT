@@ -32,9 +32,8 @@ VPS Soal (WEB):
 
 VPS Soal (CRYPTO, MISC):
 4vCPU 8GB MEM
-20GB
-633/Jam
+30GB
+658/Jam
 80,000 (5d)
 
-(handle 100an user)
 + 310,000 (5d) [kemungkinan cuma di aktifin 2-3 hari]
