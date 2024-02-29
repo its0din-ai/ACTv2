@@ -38,3 +38,12 @@ VPS Soal (CRYPTO, MISC):
 
 (handle 100an user)
 + 310,000 (5d) [kemungkinan cuma di aktifin 2-3 hari]
+
+
+`- Author: encrypt0r`
+
+SCORE: (init/decay/min)
+MISC(SANITY): 5/0/0
+EASY: 500/10/10
+MEDIUM: 1000/50/25
+HARD: 3000/150/50

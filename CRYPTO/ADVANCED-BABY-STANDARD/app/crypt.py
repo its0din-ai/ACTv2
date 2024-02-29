@@ -1,6 +1,6 @@
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad
-from secret import FLAG # Format flag ACTCTF{.*}
+from secret import FLAG # Format flag ACT_CTF{.*}
 KY = 2
 BS = 16
 key = pad(open("/dev/urandom","rb").read(KY), BS)

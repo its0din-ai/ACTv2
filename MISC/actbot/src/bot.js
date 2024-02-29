@@ -52,7 +52,7 @@ bot.on('messageCreate', async (m) => {
     }
     else {
         if (userAttempts == 2) {
-            m.author.send('Hint:\r\n||Flag diawali dengan string **ACTCTF{**||\r\n||Dan diakhiri dengan string **}** :V||');
+            m.author.send('Hint:\r\n||Flag diawali dengan string **ACT_CTF{**||\r\n||Dan diakhiri dengan string **}** :V||');
             attempts.set(m.author.id, userAttempts + 1);
         }
         else if (userAttempts == 4) {

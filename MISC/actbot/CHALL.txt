@@ -2,7 +2,7 @@ Challenge Name: ACT BOT v1.3.37
 Challenge Desc: Are u a wizard? tell me the magic words!
 Challenge Author: encrypt0r
 Category: MISC
-Flag: ACTCTF{a8a638c20011a28d96f65ae51882ab6885fd0ad031597c325f9907fc2aa94a97}
+Flag: ACT_CTF{a8a638c20011a28d96f65ae51882ab6885fd0ad031597c325f9907fc2aa94a97}
 Level: EASY
 Attachment: -
 --------------------------------------------------------

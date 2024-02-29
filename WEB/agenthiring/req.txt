@@ -4,11 +4,9 @@ User-Agent: *
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
 Accept-Language: en-US,en;q=0.5
 Accept-Encoding: gzip, deflate, br
-Referer: http://localhost:8082/login.php
 DNT: 1
 Sec-GPC: 1
-Connection: close
-Cookie: PHPSESSID=76ed839257274568835fa5990a018cab
+Cookie: session=3b2a95f4-c2b8-4bd3-8031-24bbf7215821.tM79KUMDMHXNMxBiXdvwz6FA8Cs; PHPSESSID=5edb7f6182bc0a91d843717a781bb8b1
 Upgrade-Insecure-Requests: 1
 Sec-Fetch-Dest: document
 Sec-Fetch-Mode: navigate

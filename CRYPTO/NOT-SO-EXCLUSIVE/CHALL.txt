@@ -2,7 +2,7 @@ Challenge Name: NOT SO EXCLUSIVE
 Challenge Desc: BUKAN XOR
 Challenge Author: encrypt0r
 Category: CRYPTO
-Flag: ACTCTF{s3mo9a_lu_gk_coba_brut3f0rce_X0R_awokawokaw}
+Flag: ACT_CTF{s3mo9a_lu_gk_coba_brut3f0rce_X0R_awokawokaw}
 Level: EASY
 Attachment: TRUE (out.txt, encrypt0r.py)
 --------------------------------------------------------

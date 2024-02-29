@@ -1,5 +1,5 @@
 <?php
-$HOST = 'agentdb';
+$HOST = 'agentsdb';
 $USER = 'root';
 $PASS = 'infected';
 $DB = 'agentless';
