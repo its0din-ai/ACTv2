@@ -2,7 +2,7 @@ Challenge Name: TAGS
 Challenge Desc: Join here to find the flag: https://discord.gg/mDQHabMF6h
 Challenge Author: encrypt0r
 Category: MISC
-Flag: ACTCTF{__DONT_MENTION_IT__}
+Flag: ACT_CTF{__DONT_MENTION_IT__}
 Level: EASY
 Attachment: FALSE
 --------------------------------------------------------

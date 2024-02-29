@@ -7,7 +7,7 @@ def encrypt(message, key):
     return encrypted_text
 
 def main():
-    key = 1111
+    key = 1337
     ciphertext = encrypt(FLAG, key)
     with open("out.txt", "w") as f:
         f.write(ciphertext)

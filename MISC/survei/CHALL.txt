@@ -2,7 +2,7 @@ Challenge Name: Survey
 Challenge Desc: freeee flags?
 Challenge Author: encrypt0r
 Category: MISC
-Flag: ACTCTF{6f20b8433fb0ca39bbc34433d34b0786dea36ec2e1c1fb55285df3038453169f}
+Flag: ACT_CTF{6f20b8433fb0ca39bbc34433d34b0786dea36ec2e1c1fb55285df3038453169f}
 Level: EASY
 Attachment: FALSE
 --------------------------------------------------------

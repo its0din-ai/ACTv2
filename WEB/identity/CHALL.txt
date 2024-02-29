@@ -5,7 +5,7 @@ building html using jinja2? someone will sell the Shell Backdoor access i guess.
 even there's a default user dummy:dumb
 Challenge Author: encrypt0r
 Category: WEB EXPLOITATION
-Flag: ACTCTF{da1469a3aa9a1ccb79eb5892bc8bb2581c287234ccd95d08dd2dd5c4a2de82b1}
+Flag: ACT_CTF{da1469a3aa9a1ccb79eb5892bc8bb2581c287234ccd95d08dd2dd5c4a2de82b1}
 Level: MEDIUM
 Attachment: FALSE
 --------------------------------------------------------

@@ -1,7 +1,7 @@
 use std::io;
 use std::io::Write;
 
-const STORED_PASSWORD: &str = "ACTCTF{rust_is_saf3_but_wh0_wr1te_pa$$w0rd_0n_the_variable_like_th1s_is_a_dumb_269a18f6}";
+const STORED_PASSWORD: &str = "ACT_CTF{rust_is_saf3_but_wh0_wr1te_pa$$w0rd_0n_the_variable_like_th1s_is_a_dumb_269a18f6}";
 
 fn main() {
     println!("Welcome to the Blazingly Fast Login System!");

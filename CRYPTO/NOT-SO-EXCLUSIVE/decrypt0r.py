@@ -5,7 +5,7 @@ def decrypt(ciphertext, key):
     return decrypted_text
 
 def main():
-    key = 1111
+    key = 1337
     with open("out.txt", "r") as f:
         ciphertext = f.read()
     decrypted_message = decrypt(ciphertext, key)

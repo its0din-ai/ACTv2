@@ -83,7 +83,7 @@ CREATE TABLE `flag` (
 INSERT INTO `flag` (`flag`) VALUES
 ('Lorem ipsum dolor sit amet esse ad eiusmod aliqua ut eu labore sunt qui exercitation. Laborum ea laboris excepteur ad reprehenderit nisi commodo adipisicing do non irure sint. Voluptate incididunt Lorem pariatur nostrud irure ipsum incididunt ut tempor officia nostrud qui voluptate pariatur in aliqu'),
 ('FAKEFLAG{86dc40ab1c1a9544556eeebdbf588da3d72510734b43b4d47515c99d3bda568c}'),
-('ACTCTF{cb12352bd9ba4fdc3d07925cee24f3a1b11ddaae0a59d5bde4ebcdb87bd9edef}'),
+('ACT_CTF{cb12352bd9ba4fdc3d07925cee24f3a1b11ddaae0a59d5bde4ebcdb87bd9edef}'),
 ('Lorem ipsum dolor sit amet esse ad eiusmod aliqua ut eu labore sunt qui exercitation. Laborum ea laboris excepteur ad reprehenderit nisi commodo adipisicing do non irure sint. Voluptate incididunt Lorem pariatur nostrud irure ipsum incididunt ut tempor officia nostrud qui voluptate pariatur in aliqu');
 
 -- --------------------------------------------------------

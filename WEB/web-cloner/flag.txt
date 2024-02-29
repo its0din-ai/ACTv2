@@ -1,1 +1,1 @@
-ACTCTF{cbc93d96101bbc78d4c9c1dcbc01015f2f5afd17aabff4f44dd9b2abb80bf7fd}
+ACT_CTF{cbc93d96101bbc78d4c9c1dcbc01015f2f5afd17aabff4f44dd9b2abb80bf7fd}

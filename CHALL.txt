@@ -2,7 +2,7 @@ Challenge Name:
 Challenge Desc: [Deskripsi singkat, atau boleh dikosongi]
 Challenge Author: 
 Category: 
-Flag: ACTCTF{.*} [isi flag bebas, yang terdiri dari karakter A-Z, a-z, 0-9 dan '_+-!?#^&']
+Flag: ACT_CTF{.*} [isi flag bebas, yang terdiri dari karakter A-Z, a-z, 0-9 dan '_+-!?#^&']
 Level: [EASY/MEDIUM/HARD]
 Attachment: [TRUE/FLASE](Tulis namafile.ext jika ada attachment untuk dibagikan)
 --------------------------------------------------------

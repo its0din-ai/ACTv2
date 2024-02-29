@@ -4,3 +4,5 @@ WEB/agenthiring/db/data/*
 MISC/actbot/log/*.log
 MISC/actbot/src/node_modules
 MISC/actbot/src/.env.local
+RE/rustverse-engineer/compilers/*
+RE/rustverse-engineer/.dockerignore
