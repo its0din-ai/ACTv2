@@ -1,0 +1,11 @@
+service sanca
+{
+    disable     = no
+    type        = UNLISTED
+    socket_type = stream
+    protocol    = tcp
+    port        = 13373
+    wait        = no
+    user        = actpyc
+    server      = /app/run
+}

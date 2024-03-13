@@ -10,4 +10,4 @@ services:
         - DEBIAN_FRONTEND=noninteractive
       ports:
         - "13371:13371"
-      restart: unless-stopped
+      restart: always

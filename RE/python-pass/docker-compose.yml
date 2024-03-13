@@ -1,0 +1,12 @@
+version: "3"
+services:
+  pyc-pass:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: RE-pyc-pass
+    environment:
+      - DEBIAN_FRONTEND=noninteractive
+    ports:
+      - "13373:13373"
+    restart: unless-stopped

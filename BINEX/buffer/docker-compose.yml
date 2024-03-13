@@ -1,0 +1,12 @@
+version: "3"
+services:
+  buffer:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: BINEX-buffer
+    environment:
+      - DEBIAN_FRONTEND=noninteractive
+    ports:
+      - "13372:13372"
+    restart: unless-stopped

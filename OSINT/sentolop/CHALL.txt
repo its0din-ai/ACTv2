@@ -1,0 +1,16 @@
+Challenge Name: SENTOLOP
+Challenge Desc: denger-denger ada istana disini
+Challenge Author: encrypt0r
+Category: OSINT
+Flag: ACT_CTF{27b74ac3eae94664a25ef6cb1eb50e9ecb4bd212a3872bf893c4232f9f0e6cb1}
+Level: EASY
+Attachment: TRUE(sentolop.png)
+--------------------------------------------------------
+POC:
+1. Cari alamatnya
+2. Liat maps "ISTANA KEPRESIDENAN Tarakarta"
+3. Liat review disitu
+
+How to deploy:
+-
+

@@ -6,3 +6,6 @@ MISC/actbot/src/node_modules
 MISC/actbot/src/.env.local
 RE/rustverse-engineer/compilers/*
 RE/rustverse-engineer/.dockerignore
+mailer/*
+SSL/*
+*.tar

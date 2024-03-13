@@ -1,0 +1,17 @@
+[CRYPTO]
+- ADVANCED-BABY-ENCRYPTION = vps1-13371
+
+[BINEX]
+- Buffer = vps1-13372
+
+[RE]
+- PYTH = vps1-13373
+
+[MISC]
+- ACTBOT = vps1-none
+
+[WEB]
+- WEB-CLONER = vps2-10001
+- AGENTHIRING = vps2-10002
+- IDENTITY = vps2-10003
+- LoFi = vps2-10004
